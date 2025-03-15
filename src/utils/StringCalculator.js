@@ -6,7 +6,7 @@ export function add(numbers) {
         console.log('//')
         const parts = numbers.split("\n");
         delimiter = new RegExp(parts[0].slice(2)); // Extract custom delimiter
-        c
+        
         numbers = parts.slice(1).join("\n"); // Remove the first line containing the delimiter
     }
 
