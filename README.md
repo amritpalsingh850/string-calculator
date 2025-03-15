@@ -23,11 +23,11 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 #after running project
 type input like
 empty string
-1 
-1,2
-1\n2,3
-//;\n1;2
--1,2,-3
+1 \
+1,2 \
+1\n2,3 \
+//;\n1;2 \
+-1,2,-3 \
 dont enter double quotes around above values as input field will above values as string as shown in image checkimage.png at root directory of project
 
 The page will reload when you make changes.\
